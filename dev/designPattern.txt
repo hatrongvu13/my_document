@@ -1,0 +1,33 @@
+chia lam 3 loai design pattern : 
+  - mau tao dung <Creational Design Patterns>
+  - mau cau truc <Structural Design Patterns>
+  - mau hanh vi <Behavioral Design Patterns>
+- Mot so mau thiet ke khac: 
+  + Dependency Injection
+  + Thread Safety in Java Singleton
+
+Mau tao dung - Creational Design Patterns:
+ Singleton Pattern
+ Factory Pattern
+ Absstract Factory Pattern
+ Builder Pattern
+ Prototype Patern
+Mau cau truc - Structural Design Patterns:
+ Adapter Patern
+ Composite Pattern
+ Proxy Pattern
+ Flyweight Pattern
+ Facade Pattern
+ Bridge Pattern
+ Decorator Pattern
+Mau hanh vi - Behavioral Design Patterns
+ Template Method Patterns
+ Mediator Pattern
+ Chain of Responsibility Pattern
+ Observer Pattern 
+ Command Pattern
+ State Pattern
+ Visitor Pattern
+ Interpreter Pattern 
+ Iterator Pattern
+ Memento Pattern
