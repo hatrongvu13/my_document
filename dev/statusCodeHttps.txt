@@ -1,0 +1,7 @@
+Tong quan :
+1xx : Thong tin
+2xx: Thanh cong 
+3xx: Chuyen huong - bo sung them de thuc hien yeu cau
+4xx: Loi tu client - ma loi chi ra yeu cau khong hop lej
+5xx: Loi server - khong co cach nao can thiep ngoai viec cho may chu sua xong
+

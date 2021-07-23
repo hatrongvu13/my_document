@@ -1,0 +1,1 @@
+https://mkyong.com/java/how-to-get-the-total-number-of-lines-of-a-file-in-java/

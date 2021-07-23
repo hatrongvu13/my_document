@@ -1,0 +1,3 @@
+CI/CD ?
+CI: Continous Integration : tic hop lien truc <lien tuc code - commit - pull - build - test>
+CD: Continous Delivery: Chuyen giao lien tuc <lien tuc build - test - deploy>
