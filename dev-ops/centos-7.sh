@@ -20,6 +20,6 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 docker-compose --version
 
-## if docker-compose error when installed
+## if command docker-compose error when installed
 #Bạn cũng có thể tạo một liên kết tượng trưng đến / usr / binor bất kỳ thư mục nào khác trong đường dẫn của bạn
 sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
