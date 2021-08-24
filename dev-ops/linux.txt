@@ -1,0 +1,5 @@
+show info 
+cat /etc/os-release
+
+disable selinux
+vi /etc/selinux/config
