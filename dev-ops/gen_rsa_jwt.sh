@@ -1,6 +1,3 @@
 
-ssh-keygen -t rsa -b 4096 -m PEM -f jwtRS256.key
-# Don't add passphrase
-openssl rsa -in jwtRS256.key -pubout -outform PEM -out jwtRS256.key.pub
-cat jwtRS256.key
-cat jwtRS256.key.pub
+openssl genrsa -out private.pem -aes256 4096
+openssl rsa -pubout -in private.pem -out public.pem
