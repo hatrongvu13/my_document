@@ -30,7 +30,10 @@ $ export PS1=$OLD_PS1                    # restore Long Prompt to PS1
 \W     Last part of the current working directory
 \!     Current index in history
 \#     Command index
-\$     A "#" if you're root, else "$"
+\$     A "#" if you''re root, else "$"
 \\     Literal Backslash
 \@     Time (12h format with am/pm)
+##########
+check temperature ssd 
+sudo hddtemp /dev/sd<abcdefjkg>
 ##########
