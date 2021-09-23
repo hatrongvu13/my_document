@@ -34,6 +34,6 @@ $ export PS1=$OLD_PS1                    # restore Long Prompt to PS1
 \\     Literal Backslash
 \@     Time (12h format with am/pm)
 ##########
-check temperature ssd 
+#check temperature ssd 
 sudo hddtemp /dev/sd<abcdefjkg>
 ##########
