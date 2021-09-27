@@ -37,3 +37,7 @@ $ export PS1=$OLD_PS1                    # restore Long Prompt to PS1
 #check temperature ssd 
 sudo hddtemp /dev/sd<abcdefjkg>
 ##########
+# check processing using ram 
+##########
+ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%mem
+##########
